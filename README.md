@@ -1,4 +1,4 @@
-# Amadeus movie-library
+# Movie-library
 
 App in production:
 [https://leopruebas.com.ar/amadeus/](https://leopruebas.com.ar/amadeus/)
